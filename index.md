@@ -2,27 +2,33 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "A guide for BCIT's class tool, Learning Hub."
 permalink: /
 ---
 
-# Introduction page
+# Introduction
 {: .fs-9 }
- ...
+---
+The purpose of this document is to introduce incoming BCIT students to the basic functionalities of class tool, Learning Hub. 
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+Learning Hub is a multi-faceted environment where instructors will interact with students on a logistical level. This means students will be actively using this tool throughout their time at BCIT. This guide will give you the confidence to navigate and utilize the main functionalities of Learning Hub.
 
 ---
 
-## Getting started
-<img src="https://i.imgur.com/hJRq6pA.png?raw=true">
-### Software function
-
-...
-
 ### Who is this for
 
-...
+This guide is for incoming BCIT students to learn the basic functionalities and purposes of the Learning Hub such as:
+- finding course content
+- accessing announcements and discussions
+- accessing quizzes and exams
+- submitting work such as assignments, quizzes, and exams
+- finding grades and feedback of submitted work
+
+Learning Hub is new to BCIT. This guide will hopefully get you up and running for your first day of class. Good luck! :) 
+
+---
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
