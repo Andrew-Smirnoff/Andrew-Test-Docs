@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Upload a File
 nav_order: 2
 ---
 
