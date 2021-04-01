@@ -15,7 +15,7 @@ permalink: /
 ---
 
 ## Getting started
-
+<img>https://i.imgur.com/hJRq6pA.png?raw=true</img>
 ### Software function
 
 ...
