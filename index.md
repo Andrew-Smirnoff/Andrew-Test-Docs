@@ -6,10 +6,9 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Testing some markdown
+# Introduction page
 {: .fs-9 }
-
-Here is Andrew failing.
+ ...
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
@@ -17,11 +16,13 @@ Here is Andrew failing.
 
 ## Getting started
 
-### Introduction
+### Software function
 
-Introduction goes here
+...
 
-### Quick start: Use as a GitHub Pages remote theme
+### Who is this for
+
+...
 
 1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
 ```yaml
