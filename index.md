@@ -15,8 +15,10 @@ Learning Hub is a multi-faceted environment where instructors will interact with
 
 ---
 
-# TABLE OF CONTENTS
-- [Who is this for](#who-is-this-for)
+### Table of contents
+{: .no_toc .text-delta }
+* TOC
+{:toc}
 
 ---
 
