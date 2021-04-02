@@ -15,16 +15,21 @@ Learning Hub is a multi-faceted environment where instructors will interact with
 
 ---
 
+# TABLE OF CONTENTS
+- [Who is this for](#who-is-this-for)
+
+---
+
 ### Who is this for
 
-This guide is for incoming BCIT students to learn the basic functionalities and purposes of the Learning Hub such as:
+This guide is for new or returning BCIT students who are unfamiliar with Learning Hub. This guide's purpose is to teach basic functionalities of the Learning Hub such as:
 - finding course content
 - accessing announcements and discussions
 - accessing quizzes and exams
 - submitting work such as assignments, quizzes, and exams
 - finding grades and feedback of submitted work
 
-Learning Hub is new to BCIT. This guide will hopefully get you up and running for your first day of class. Good luck! :) 
+Learning Hub is new to BCIT. This guide will have you prepared for your first day of classes. Good luck! :) 
 
 ---
 
