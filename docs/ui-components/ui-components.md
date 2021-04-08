@@ -16,8 +16,9 @@ It is important to know where to find each of these options, and this section wi
 {: .fs-3 .fw-300 }
 ---
 ## Table of contents
-{: .text-delta }
+{: .no_toc .text-delta }
 
+1. TOC
 {:toc}
 ---
 # Bongo
