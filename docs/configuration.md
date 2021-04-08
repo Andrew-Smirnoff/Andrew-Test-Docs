@@ -24,7 +24,7 @@ it may seem overwhelming at first, but here you will learn to properly navigate 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
-## Learning the Layout
+## The headbar
 
 ```
 Add homepage image
@@ -58,37 +58,21 @@ These buttons on the right of the headbar represent:
   5. Your profile. Here you can edit your information and how others see you on the website. You can also edit your notification settings, account settings, and check your class      progress.
 
 
-## Search
+## The taskbar
 
-```yaml
-# Enable or disable the site search
-# Supports true (default) or false
-search_enabled: true
-
-search:
-  # Split pages into sections that can be searched individually
-  # Supports 1 - 6, default: 2
-  heading_level: 2
-  # Maximum amount of previews per search result
-  # Default: 3
-  previews: 3
-  # Maximum amount of words to display before a matched word in the preview
-  # Default: 5
-  preview_words_before: 5
-  # Maximum amount of words to display after a matched word in the preview
-  # Default: 10
-  preview_words_after: 10
-  # Set the search token separator
-  # Default: /[\s\-/]+/
-  # Example: enable support for hyphenated search words
-  tokenizer_separator: /[\s/]+/
-  # Display the relative url in search results
-  # Supports true (default) or false
-  rel_url: true
-  # Enable or disable the search button that appears in the bottom right corner of every page
-  # Supports true or false (default)
-  button: false
 ```
+picture of the taskbar
+```
+1. “Acceptable use” brings you to the BCIT IT policy
+2.  “Privacy” takes you to the BCIT privacy policy
+3. “myTools” gives you a list of some of the tools on the learning hub, most of these are not important right now.
+```
+myTools dropdown
+```
+4. “E-mail” is a convenient way to email your professors through your BCIT email. 
+5. “HELP!” takes you to the BCIT help centre.
+
+
 
 ## Aux links
 
