@@ -21,19 +21,19 @@ It is important to know where to find each of these options, and this section wi
 1. TOC
 {:toc}
 ---
-# Bongo
+## Bongo
 ---
 
 ---
-# Zoom
+## Zoom
 ---
 
 ---
-# Videos on Learning Hub
+## Videos on Learning Hub
 ---
 
 ---
-# Videos on YouTube
+## Videos on YouTube
 ---
 
 ---
