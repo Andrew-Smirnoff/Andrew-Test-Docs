@@ -21,6 +21,7 @@ nav_order: 5
 ## Introduction
 
 The Activities section will cover the important categories in D2L's Activities tab: Assignments, Quizzes, and Virtual Classroom. These are the most common activities used by instructors. Although they may be simple once familiar, knowing what to do and how to do it will be an important part of your preparation for your program.
+
 ![D2L navigation bar with activities highlighted](https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/7baad08d19d1f93c3f2dd1ab6c35f1f5082fcd40/assets/images/activities-d2l-nav-bar.png)
 ---
 
