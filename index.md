@@ -46,7 +46,8 @@ To use D2L you will need:
 
 ### Purpose
 
-D2L (Desire2Learn) is a Canadian founded software company that provides learning tools to higher education establishments such as BCIT to enhance online learning. Founded in 1999 D2L bloomed into a online learning titan, making massive acquisitions and raising millionns of dollars. In 2017 D2L went through a massive revamp to make the platform mobile-friendly, this is the version that you see today. [Learn More Here](https://en.wikipedia.org/wiki/D2L).
+D2L (Desire2Learn) is a Canadian founded software company that provides learning tools to higher education establishments such as BCIT to enhance online learning. Founded in 1999 D2L bloomed into a online learning titan, making massive acquisitions and raising millionns of dollars. In 2017 D2L went through a massive revamp to make the platform mobile-friendly, this is the version that you see today. 
+[Learn More](https://en.wikipedia.org/wiki/D2L).
 
 BCIT uses D2L to provide students with consistent access to class content such as lecture content, assignments, examinations, and a virtual classroom.
 
