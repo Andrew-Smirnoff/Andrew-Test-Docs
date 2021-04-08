@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 4
+title: Activities
 nav_order: 5
 ---
 
@@ -18,17 +18,17 @@ nav_order: 5
 
 ---
 
-## Main navigation
+## Introduction
 
-The main navigation for your Just the Docs site is on the left side of the page at large screens and on the top (behind a tap) on small screens. The main navigation can be structured to accommodate a multi-level menu system (pages with children and grandchildren).
-
-By default, all pages will appear as top level pages in the main nav unless a parent page is defined (see [Pages with Children](#pages-with-children)).
-
+The Activities section will cover the important categories in D2L's Activities tab: Assignments, Quizzes, and Virtual Classroom. These are the most common activities used by instructors. Although they may be simple once familiar, knowing what to do and how to do it will be an important part of your preparation for your program.
+![D2L navigation bar with activities highlighted](https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/7baad08d19d1f93c3f2dd1ab6c35f1f5082fcd40/assets/images/activities-d2l-nav-bar.png)
 ---
 
-## Ordering pages
+## Assignments
 
 To specify a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
+
+### Written work
 
 #### Example
 {: .no_toc }
