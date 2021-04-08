@@ -6,10 +6,10 @@ has_children: true
 permalink: /docs/ui-components
 ---
 
-# UI Components
+# Accessing your course material
+---
+Now that you know how to navigate to your course itself, you may want to know how to access the material inside the course. This may seem straight forward; however, different courses have different ways of delivering their material. It can be delivered in live format, or a recorded format. If it's a live format, they may be hosting it in either Zoom or Bongo, both of which are useful for large conference calls and classrooms. If it's a recorded format, it may have been uploaded to the Learning Hub directly, or your professor may have chosen to use YouTube instead.
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+It is important to know where to find each of these options, and this section will cover all of them. Soon, you will know where to find all of these options by heart.
 {: .fs-6 .fw-300 }
-
-### This is a test
-- This will allow me to see if my updates work as intended
+---
