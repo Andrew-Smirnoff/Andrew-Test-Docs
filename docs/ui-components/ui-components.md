@@ -15,10 +15,3 @@ Now that you know how to navigate to your course itself, you may want to know ho
 It is important to know where to find each of these options, and this section will cover all of them. Soon, you will know where to find all of these options by heart.
 {: .fs-3 .fw-300 }
 ---
-
-### Table of contents
-{: .text-delta }
-* TOC
-{:toc}
-
----
