@@ -26,20 +26,36 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 ## Learning the Layout
 
-```Add homepage image```
+```
+Add homepage image
+```
 This is what you should see when you first enter the learning hub. 
 
 Familiarize yourself with the headbar.
 
-```Homebutton```
+```
+Homebutton
+```
 This is the home button. You can click the icon or the BCIT logo at any time to return to the homepage.
 
 These buttons on the right of the headbar represent:
-  1. The course list ```Course list button```
-  2. The message alert, with this you can view any direct messages you’ve received. You can also use this to send messages to your instructors ```message button```
-  3. Your subscription alerts, which will notify you of any updates to discussions you’ve subscribed to. ```subscribble pls button```
-  4. Your update alerts, you will be using this feature the most, here you will be able to see when your instructors post news, assignments, schedules, and marks. ```and hit that bell icon too```
-  5. Your profile. Here you can edit your information and how others see you on the website. You can also edit your notification settings, account settings, and check your class      progress.
+  1. The course list 
+  2. ```
+  3. Course list button
+  4. ```
+  5. The message alert, with this you can view any direct messages you’ve received. You can also use this to send messages to your instructors 
+  6. ```
+  7. message button
+  8. ```
+  9. Your subscription alerts, which will notify you of any updates to discussions you’ve subscribed to. 
+  10. ```
+  11. subscribble pls button
+  12. ```
+  13. Your update alerts, you will be using this feature the most, here you will be able to see when your instructors post news, assignments, schedules, and marks. 
+  14. ```
+  15. and hit that bell icon too
+  16. ```
+  17. Your profile. Here you can edit your information and how others see you on the website. You can also edit your notification settings, account settings, and check your class      progress.
 
 
 ## Search
