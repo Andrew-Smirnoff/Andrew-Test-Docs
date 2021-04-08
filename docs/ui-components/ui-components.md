@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Course Delivery
+title: Accessing your course material
 nav_order: 3
 has_children: true
 permalink: /docs/ui-components
