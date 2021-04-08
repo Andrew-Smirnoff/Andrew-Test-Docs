@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Task 1
+title: Home Page Navigation
 nav_order: 2
 ---
 
@@ -26,10 +26,7 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 ## Learning the Layout
 
-```yaml
-# Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/just-the-docs.png"
-```
+
 
 ## Search
 
