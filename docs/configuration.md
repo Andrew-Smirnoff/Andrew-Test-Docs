@@ -4,11 +4,12 @@ title: Task 1
 nav_order: 2
 ---
 
-# Configuration
+# Home Page Navigation
 {: .no_toc }
 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
+When you log on to the learning hub for the first time, you will be greeted with the homepage,
+it may seem overwhelming at first, but here you will learn to properly navigate it.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
