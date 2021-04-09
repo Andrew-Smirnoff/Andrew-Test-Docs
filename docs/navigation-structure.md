@@ -20,16 +20,32 @@ nav_order: 5
 
 ## Introduction
 
-The Activities section will cover the important categories in D2L's Activities tab: Assignments, Quizzes, and Virtual Classroom. These are the most common activities used by instructors. Although they may be simple once familiar, knowing what to do and how to do it will be an important part of your preparation for your program.
+The Activities section will cover the important categories in a course's Activities tab: Assignments, Quizzes, and Virtual Classroom. These are the most common activities used by instructors. Although they may be simple once familiar, knowing what to do and how to do it will be an important part of your preparation for your program.
 
 ![D2L navigation bar with activities highlighted](https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/7baad08d19d1f93c3f2dd1ab6c35f1f5082fcd40/assets/images/activities-d2l-nav-bar.png)
 ---
 
-## Assignments
+## Organization
 
-To specify a page order, you can use the `nav_order` parameter in your pages' YAML front matter.
+First and foremost, let's set up a file structure on your desktop that is organized and easily accessible for you:
 
-### Written work
+1. Create a file called "bcit" on your desktop.
+2. Within that file, create a "term-*your term number*" file.
+3. Within that file create a file for each of your courses.
+4. For each of those course files, create an assignments folder inside. 
+5. For every assignment, save your work to that folder.
+
+This is a setup that will help you keep all work organized and accessible. This is very important especially when it comes to uploading the correct assignment and quizzes to D2L, more on that to come :)
+
+## Upload an Assignment
+
+Your instructor will specify the format in which they wish to receive the file and the name of the file.  
+
+### Files
+
+### Written
+
+
 
 #### Example
 {: .no_toc }
