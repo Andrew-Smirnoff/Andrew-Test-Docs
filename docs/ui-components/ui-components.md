@@ -49,16 +49,31 @@ Insert Join Bongo screen
 ---
 ## Zoom
 ---
-1. Locate the Zoom link. It may be found on the course home page, or it may be found in the contents section. If it is on the homepage, you will only need to click it
+1. Locate the Zoom link. It may be found on the course home page, or it may be found in the contents section. If it is on the homepage, you will only need to click it, then click the "join" button on the page that pops up. Otherwise, move onto step 2.
 ```
 Insert picture of Zoom link on course home page
 ```
-2. Click on "Content" in the task bar of your class
+2. Click on "Content" in the task bar of your class.
+```
+Insert picture of "Content" being clicked
+```
+3. Choose the slide that has the information for the Zoom link. If there are multiple slides to choose from, then it is likely the first one, but try them all if you can't find it.
+```
+Insert image of list of slides
+```
+4. Click on the Zoom link, then click the "join" button on the page that pops up.
+```
+Insert image of Zoom join link
+```
+If you could not find a Zoom link anywhere, then your instructor may not use Zoom, or perhaps the wrong section may have been selected on accident.
 ---
 ## Videos on Learning Hub
 ---
+1. Click on "Content" in the task bar of your class.
+```
+Insert picture of "Content" being clicked
+```
 
----
 ## Videos on YouTube
 ---
 
