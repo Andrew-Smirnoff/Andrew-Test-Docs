@@ -51,7 +51,7 @@ These buttons on the right of the headbar represent:
   
   4. Your update alerts, you will be using this feature the most, here you will be able to see when your instructors post news, assignments, schedules, and marks. 
   
-  <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/remeber_to_hit_that_bell_icon.png?raw=true">
+  <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/remember%20to%20hit%20that%20bell%20icon.png?raw=true">
   
   5. Your profile. Here you can edit your information and how others see you on the website. You can also edit your notification settings, account settings, and check your class      progress.
 
