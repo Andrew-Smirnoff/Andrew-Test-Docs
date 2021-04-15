@@ -23,9 +23,8 @@ it may seem overwhelming at first, but here you will learn to properly navigate 
 
 ## The headbar
 
-```
-Add homepage image
-```
+<img src="mainPage.png?raw=true">
+
 This is what you should see when you first enter the learning hub. 
 
 Familiarize yourself with the headbar.
