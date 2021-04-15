@@ -91,5 +91,7 @@ Finally, scrolling all the way to the bottom of the page, you can find the stude
 
 <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/success.png?raw=true">
 
+## Conclusion
 
+Now you know the layout of the learning hub home. You'll be able to access your courses and see your alrerts. 
 
