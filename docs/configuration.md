@@ -37,40 +37,40 @@ These buttons on the right of the headbar represent:
 
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/right.png?raw=true">
 
-  1. The course list 
+  - The course list 
   
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/courses.png?raw=true">
   
-  2. The message alert, with this you can view any direct messages you’ve received. You can also use this to send messages to your instructors 
+  - The message alert, with this you can view any direct messages you’ve received. You can also use this to send messages to your instructors 
   
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/mail.png?raw=true">
   
-  3. Your subscription alerts, which will notify you of any updates to discussions you’ve subscribed to. 
+  - Your subscription alerts, which will notify you of any updates to discussions you’ve subscribed to. 
   
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/subscriptions.png?raw=true">
   
-  4. Your update alerts, you will be using this feature the most, here you will be able to see when your instructors post news, assignments, schedules, and marks. 
+  - Your update alerts, you will be using this feature the most, here you will be able to see when your instructors post news, assignments, schedules, and marks. 
   
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/remember%20to%20hit%20that%20bell%20icon.png?raw=true">
   
-  5. Your profile. Here you can edit your information and how others see you on the website. You can also edit your notification settings, account settings, and check your class      progress.
+  - Your profile. Here you can edit your information and how others see you on the website. You can also edit your notification settings, account settings, and check your class      progress.
 
 
 ## The taskbar
 
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/Buttons.png?raw=true">
   
-  1. “Acceptable use” brings you to the BCIT IT policy
+  - “Acceptable use” brings you to the BCIT IT policy
   
-  2.  “Privacy” takes you to the BCIT privacy policy
+  -  “Privacy” takes you to the BCIT privacy policy
   
-  3. “myTools” gives you a list of some of the tools on the learning hub, most of these are not important right now.
+  - “myTools” gives you a list of some of the tools on the learning hub, most of these are not important right now.
   
   <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/dropDown.png?raw=true">
   
-  4. “E-mail” is a convenient way to email your professors through your BCIT email. 
+  - “E-mail” is a convenient way to email your professors through your BCIT email. 
   
-  5. “HELP!” takes you to the BCIT help centre.
+  - “HELP!” takes you to the BCIT help centre.
 
 
 
