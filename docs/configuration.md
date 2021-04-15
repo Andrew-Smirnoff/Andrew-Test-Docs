@@ -21,9 +21,6 @@ it may seem overwhelming at first, but here you will learn to properly navigate 
 ---
 
 
-View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
-
-
 ## The headbar
 
 ```
