@@ -4,7 +4,7 @@ title: Activities
 nav_order: 5
 ---
 
-# Navigation Structure
+# Activities
 {: .no_toc }
 
 <details open markdown="block">
@@ -22,16 +22,18 @@ nav_order: 5
 
 The Activities section will cover the important categories in a course's Activities tab: Assignments, Quizzes, and Virtual Classroom. These are the most common activities used by instructors. Although they may be simple once familiar, knowing what to do and how to do it will be an important part of your preparation for your program.
 
+This guide will assume that you are inside of a D2L class.
+
 ![D2L navigation bar with activities highlighted](https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/7baad08d19d1f93c3f2dd1ab6c35f1f5082fcd40/assets/images/activities-d2l-nav-bar.png)
 ---
 
 ## Organization
 
-First and foremost, let's set up a file structure on your desktop that is organized and easily accessible for you:
+An organized desktop will be a handy characteristic of your computer when the assignments and quizzes pile up. Set up a file structure on your desktop that is organized and easily accessible for you:
 
 1. Create a file called "bcit" on your desktop.
-2. Within that file, create a "term-*your term number*" file.
-3. Within that file create a file for each of your courses.
+2. Within that file, create a file named "term-*your term number*" e.g. term-1 for first term students.
+3. Within that file create a file for each of your courses e.g. comp-1510.
 4. For each of those course files, create an assignments folder inside. 
 5. For every assignment, save your work to that folder.
 
@@ -43,7 +45,33 @@ Your instructor will specify the format in which they wish to receive the file a
 
 ### Files
 
-### Written
+To upload a file to a submission:
+1. Navigate to Assignments in the Activities drop down menu in your class.
+   Here you will find a list of assignments for your course. These are the sections you will find.
+    ![assignments navigation row](https://user-images.githubusercontent.com/24902962/114898253-c9d1fe00-9dc6-11eb-88fe-caa5c763a759.png)
+    - Folder: provides a link to the specific assignment and for some instructors, required documents for that assignment.
+    - Completion Status: indicates whether or not you have submitted the assignment. Values are either "Not Submitted" or "*x* Submission, *n* File(s)".
+    - Score: the assignment's grade, initially 0.
+    - Due Date: date when the assignment must be submitted by.
+2. Navigate to the link in the Folder section. This is where you will find the Submit Assignment section.
+   ![image](https://user-images.githubusercontent.com/24902962/114899502-ddca2f80-9dc7-11eb-9d78-9d65e140db2b.png)
+4. Click on the Add a File button.
+5. A pop up will appear that will give you options from where you would like to upload your assignment from. *I have not once used anything other than My Computer".
+6. Click on My Computer.
+7. Click on Upload.
+8. Find your file on your device. *This is where the pro tip comes in handy, especially when you're uploading files for quizzes because these uploads are time sensitive*.
+9. Once found, select the file and click open. This will return you to step 7. If necessary, repeat the steps to upload multiple files or you can select them all at once by holding Command (Mac) or Control (Windows) and click the necessary files.
+10. Once all files are uploaded click Add. This will upload your assignments to your submission but not submit them.
+
+Double check that the correct amount of files have been uploaded.
+![correctly uploaded files](https://user-images.githubusercontent.com/24902962/114902390-a0b36c80-9dca-11eb-893e-1c112d704aa7.png)
+In this image I have uploaded 1 file. If you have uploaded multiple files the 1 will represent the number of files you have uploaded.
+
+Another way to double check your submission was successful is navigate back to the Assignments page and check the assignment's Completion Status column. The number of files and submissions should have updated.
+
+D2L will also send a submission receipt to your bcit email. 
+
+### Written Documents
 
 
 
