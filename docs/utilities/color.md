@@ -4,7 +4,7 @@ title: Scan a Written Document
 parent: Activities
 ---
 
-# Color Utilities
+# Scan a Written Document
 {: .no_toc }
 
 ## Table of contents
@@ -14,7 +14,6 @@ parent: Activities
 {:toc}
 
 ---
-### Written Documents
 
 Some classes will require you to upload written documents, especially for quizzes. This is an important reason to have an organised desktop!!!
 To do this successfully we offer a few options. If you have access to a tablet you can do the assignment on you laptop. If you don't have a tablet never fear!! Adobe Scan is a fantastic app that can scan your document from your smart phone.
