@@ -90,7 +90,7 @@ Once the app is downloaded and opened you will be at a page that looks like this
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114911293-b7aa8c80-9dd3-11eb-824d-a11fa2cd3d05.png">
  
-3. Adjust the box to fit your document.
+3. Adjust the blue lines to encompass the text on your paper.
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906262-b6c32c00-9dce-11eb-90cb-a7ede3c69eb6.png">
  
