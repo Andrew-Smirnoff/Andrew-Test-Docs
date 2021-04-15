@@ -73,8 +73,28 @@ If you could not find a Zoom link anywhere, then your instructor may not use Zoo
 ```
 Insert picture of "Content" being clicked
 ```
-
+2. Go to the folder that coresponds with whatever week you are searching for. Some courses also have a video folder instead. If so, look in there
+```
+Insert picture of "Week 13" folder or "Video" folder being clicked
+```
+3. Click on whatever video corresponds to whatever subject you need to learn.
+```
+Insert picture of a video link in a folder
+```
+If you could not find a video anywhere, then your instructor may not use videos, or perhaps the wrong section may have been selected on accident.
 ## Videos on YouTube
 ---
-
+1. Click on "Content" in the task bar of your class.
+```
+Insert picture of "Content" being clicked
+```
+2. Go to the folder that coresponds with whatever week you are searching for. Some courses also have a video folder instead. If so, look in there
+```
+Insert picture of "Week 13" folder or "Video" folder being clicked
+```
+3. Click on whatever YouTube Link corresponds to whatever subject you need to learn. Some instructors may save a list of YouTube videos inside of a Google Doc instead.
+```
+Insert picture of a YouTube link in a folder
+```
+If you could not find a YouTube video anywhere, then your instructor may not use YouTube, or perhaps the wrong section may have been selected on accident.
 ---
