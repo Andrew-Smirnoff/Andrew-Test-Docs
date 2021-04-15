@@ -23,7 +23,7 @@ it may seem overwhelming at first, but here you will learn to properly navigate 
 
 ## The headbar
 
-<img src="mainPage.png?raw=true">
+<img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/mainPage.png?raw=true">
 
 This is what you should see when you first enter the learning hub. 
 
