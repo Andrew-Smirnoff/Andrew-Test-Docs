@@ -102,20 +102,20 @@ You will be sent back to step 2. If you want to add additional pages to your sca
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906291-bd51a380-9dce-11eb-9c40-b8ca2421bcad.png">
  
- 6. **IMPORTANT** Double check that all the pages you intended to upload are present
+6. **IMPORTANT** Double check that all the pages you intended to upload are present
  
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906312-c3478480-9dce-11eb-9b60-5b8c2a064934.png">
  
- 8. Click the "Save PDF" button in the top right corner. You will be returned to the main page.
+7. Click the "Save PDF" button in the top right corner. You will be returned to the main page.
  
- ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906337-c8a4cf00-9dce-11eb-931c-d7db284810b2.png">
+﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906337-c8a4cf00-9dce-11eb-931c-d7db284810b2.png">
   
-10. Click the share text beside this scan which will be on display at the top of the screen.
-11. Click "Share a Copy" which will bring up the options available to you. The method I used was sending a text to myself containing the PDF and then from the messages app on my computer I downloaded the file to the proper files.
+8. Click the share text beside this scan which will be on display at the top of the screen.
+9. Click "Share a Copy" which will bring up the options available to you. The method I used was sending a text to myself containing the PDF and then from the messages app on my computer I downloaded the file to the proper files.
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906366-d0647380-9dce-11eb-8503-83f5400575d7.png">
 
-12. Perform the ### Upload Files on D2L
+10. Perform the ### Upload Files on D2L
 
 #### Example
 {: .no_toc }
