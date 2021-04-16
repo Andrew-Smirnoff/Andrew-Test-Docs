@@ -19,11 +19,11 @@ url: docs/activities/scan-a-written-doc
 <ol>
  <li> Open the app. You will arrive at a page similar to this: </li>
  
-﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906160-a14e0200-9dce-11eb-9b22-c99d377125e7.png">
- 
+﻿<img width="375" style="margin: 10px 0px" alt="image" src="https://user-images.githubusercontent.com/24902962/114906160-a14e0200-9dce-11eb-9b22-c99d377125e7.png">
+
 <li> Click on this button to scan a document: </li>
  
-﻿<img width="148" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
+﻿<img width="148" style="margin: 10px 0px" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
  
 <li> Hover your phone over your document and press the circular button at the bottom of this page.</li>
 
