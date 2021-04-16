@@ -15,6 +15,8 @@ url: docs/activities/scan-a-written-doc
 
 - Adobe Scan Application downloaded on your phone ([Apple App Store](https://apps.apple.com/us/app/adobe-scan-digital-pdf-scanner/id1199564834) / [Google Play Store](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US))
 
+---
+### Steps
 
 <ol>
  <li> Open the app. You will arrive at a page similar to this: </li>
@@ -22,6 +24,7 @@ url: docs/activities/scan-a-written-doc
 ﻿<img width="375" style="margin: 10px 0px" alt="image" src="https://user-images.githubusercontent.com/24902962/114906160-a14e0200-9dce-11eb-9b22-c99d377125e7.png">
 
 <li> Click on this button to scan a document: </li>
+ 
  
 ﻿<img width="148" style="margin: 10px 0px" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
  
