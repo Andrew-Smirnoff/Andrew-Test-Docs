@@ -8,6 +8,8 @@ permalink: docs/activities
 
 # Activities
 {: .no_toc }
+TOC {:toc}
+---
 {: .fs-6 .fw-300 }
 This is a guide for the `Activities` tab in the Navigation Bar of a D2L class. We will look at two important functionalities: uploading a written document to your computer and uploading a file to D2L.
 
