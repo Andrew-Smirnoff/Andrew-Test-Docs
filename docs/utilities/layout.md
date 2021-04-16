@@ -6,8 +6,10 @@ url: docs/activities/upload-a-file
 ---
 
 # Upload a File to D2L
-{: .no_toc }
 
+This page will take you through the steps of uploading a file to D2L.
+
+{: .no_toc }
 ---
 
 To upload a file to a submission:
@@ -62,4 +64,4 @@ D2L will also send a submission receipt to your MyBCIT email.
 
 ---
 
-Congratulations, you have successfully uploaded a file to D2L. If you have any confusion in the lingo here check out our [Glossary](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/glossary/). If you had troubles, please visit [Troubleshooting section](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/troubleshooting/).
+Congratulations, you have successfully uploaded a file to D2L. If you have any confusion in the lingo here check out our [Glossary](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/glossary/). If you had troubles, please visit our [Troubleshooting section](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/troubleshooting/).
