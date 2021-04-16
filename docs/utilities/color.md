@@ -78,4 +78,4 @@ At this point you will be sent back to the state of step 2. If you need to add a
 </ol>
 ---
 
-Congratulations, you have successfully uploaded a written document to your laptop! Checkout [How to Upload a File](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/utilities/layout/) to upload this file to D2L. If you run into trouble please visit our [Trouble Shooting section](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/index-test/).
+Congratulations, you have successfully uploaded a written document to your laptop! Checkout [How to Upload a File](https://andrew-smirnoff.github.io/D2l-Introduction/docs/utilities/layout/) to upload this file to D2L. If you run into trouble please visit our [Trouble Shooting section](https://andrew-smirnoff.github.io/D2l-Introduction/docs/index-test/).
