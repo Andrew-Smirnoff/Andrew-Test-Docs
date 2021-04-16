@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: D2L Manual
 description: A guide to navigating BCIT's Learning Hub
-baseurl: "/Business-Comm-assignment" # the subpath of your site, e.g. /blog
+baseurl: "/D2L-Introduction" # the subpath of your site, e.g. /blog
 url: "https://Andrew-Smirnoff.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
