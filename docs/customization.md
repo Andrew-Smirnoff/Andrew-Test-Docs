@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Task 5
+nav_exclude: true
 nav_order: 6
 ---
 
