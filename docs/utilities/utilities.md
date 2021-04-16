@@ -6,13 +6,12 @@ has_children: true
 permalink: docs/activities
 ---
 
-# Utilities
+# Activities
 {: .no_toc }
 
-CSS utility classes come in handy when you to want to override default styles to create additional whitespace (margins/padding), correct unexpected shifts in font size or weight, add color, or hide (or show) something at a specific screen size.
+This is a guide for the `Activities` tab in the Navigation Bar of a D2L class. We will look at two important functionalities: uploading a written document to your computer and uploading a file to D2L.
 
-## Organization
-**IMPORTANT**
+## **A Step for Success!!!**
 An organized desktop will be a crutial characteristic of your computer when the assignments and quizzes pile up. Set up a file structure on your desktop that is organized and easily accessible for you:
 
 1. Create a file called "bcit" on your desktop.
@@ -21,6 +20,6 @@ An organized desktop will be a crutial characteristic of your computer when the 
 4. For each of those course files, create an assignments folder and quizzes folder inside. 
 5. For every assignment, save your work to the assignments folder. For every quiz, save your work to the quiz folder.
 
-This is a setup that will help you keep all work organized and accessible. This is very important especially when it comes to uploading the correct assignment and quizzes to D2L, more on that to come :)
+Congratulations, you are setup for success! This is a setup that will help you keep all work organized and accessible. This is very important especially when it comes to uploading the correct assignment and quizzes to D2L, more on that to come :)
 
 {: .fs-6 .fw-300 }
