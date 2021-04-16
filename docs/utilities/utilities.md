@@ -8,7 +8,7 @@ permalink: docs/activities
 
 # Activities
 {: .no_toc }
-
+{: .fs-6 .fw-300 }
 This is a guide for the `Activities` tab in the Navigation Bar of a D2L class. We will look at two important functionalities: uploading a written document to your computer and uploading a file to D2L.
 
 # **A Step for Success!!!**
@@ -22,4 +22,4 @@ An organized desktop will be a crutial characteristic of your computer when the 
 
 Congratulations, you are setup for success! This is a setup that will help you keep all work organized and accessible. This is very important especially when it comes to uploading the correct assignment and quizzes to D2L, more on that to come :)
 
-{: .fs-6 .fw-300 }
+
