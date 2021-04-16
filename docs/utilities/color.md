@@ -49,7 +49,7 @@ url: docs/activities/scan-a-written-doc
 At this point you will be sent back to the state of step 2. If you need to add additional pages to your current scanned ones, repeat steps 2, 3, and 4. Otherwise, continue to step 5.
 
 
-<li> Click on your documents. The number within the circle indicates how many pages you have uploaded.</li></br>
+<li> Click on your documents. The number within the circle indicates how many pages you have uploaded.</li><br/>
 
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906291-bd51a380-9dce-11eb-9c40-b8ca2421bcad.png">
