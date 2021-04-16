@@ -27,6 +27,7 @@ Ensure that you are at the correct page for your class. Classes can potentially 
 
 Your schedule can be found in "Check Course Schedule" at my.bcit.ca, where your sign in information is identical to your information at learn.bcit.ca.
 ![image](https://user-images.githubusercontent.com/71256381/114954316-1e00d080-9e0f-11eb-88ab-256d2c88d52d.png)
+
 ---
 ## Bongo
 ---
@@ -49,6 +50,7 @@ Locate the Zoom link. It may be found on the course home page. You will only nee
 
 ![image](https://user-images.githubusercontent.com/71256381/114954230-f01b8c00-9e0e-11eb-9a37-f9e3a672ed34.png)
 If you could not find a Zoom link anywhere, then your instructor may not use Zoom, or perhaps the wrong section may have been selected on accident.
+
 ---
 ## Videos on Learning Hub
 ---
@@ -60,4 +62,5 @@ If you could not find a Zoom link anywhere, then your instructor may not use Zoo
 ![image](https://user-images.githubusercontent.com/71256381/114954253-ff9ad500-9e0e-11eb-8298-01a86eb2aedb.png)
 3. Click on whatever video corresponds to whatever subject you need to learn. If it is a YouTube video, it may also be in a Google Doc.
 If you could not find a video anywhere, then your instructor may not use videos, or perhaps the wrong section may have been selected on accident.
+
 ---
