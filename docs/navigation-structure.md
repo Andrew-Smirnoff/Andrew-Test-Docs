@@ -19,7 +19,7 @@ nav_order: 5
 ---
 
 ## Introduction
-
+hello
 The Activities section will cover the important categories in a course's Activities tab: Assignments, Quizzes, and Virtual Classroom. These are the most common activities used by instructors. Although they may be simple once familiar, knowing what to do and how to do it will be an important part of your preparation for your program.
 
 This guide will assume that you are inside of a D2L class.
