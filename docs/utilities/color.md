@@ -76,6 +76,6 @@ At this point you will be sent back to the state of step 2. If you need to add a
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906366-d0647380-9dce-11eb-8503-83f5400575d7.png">
  
 </ol>
---
+---
 
 Congratulations, you have successfully uploaded a written document to your laptop! Checkout [How to Upload a File](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/utilities/layout/) to upload this file to D2L. If you run into trouble please visit our [Trouble Shooting section](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/index-test/).
