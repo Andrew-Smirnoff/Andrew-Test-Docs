@@ -11,7 +11,7 @@ permalink: docs/activities
 
 This is a guide for the `Activities` tab in the Navigation Bar of a D2L class. We will look at two important functionalities: uploading a written document to your computer and uploading a file to D2L.
 
-## **A Step for Success!!!**
+# **A Step for Success!!!**
 An organized desktop will be a crutial characteristic of your computer when the assignments and quizzes pile up. Set up a file structure on your desktop that is organized and easily accessible for you:
 
 1. Create a file called "bcit" on your desktop.
