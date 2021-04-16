@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Activities
+nav_exclude: true
 nav_order: 5
 ---
-
 # Activities
 {: .no_toc }
 
