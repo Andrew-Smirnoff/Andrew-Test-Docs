@@ -29,7 +29,7 @@ url: docs/activities/scan-a-written-doc
 <li> Click on this button to scan a document: </li></br>
  
  
-﻿<img width="148" style="margin: 10px 0px" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
+﻿<img width="148" style="float: left" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
  
  
 <li> Hover your phone over your document and press the circular button at the bottom of this page.</li>
