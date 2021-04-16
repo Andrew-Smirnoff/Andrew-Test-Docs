@@ -10,20 +10,23 @@ url: docs/activities/scan-a-written-doc
 
 --
 
-###Specific Prerequisites
+### Specific Prerequisites
+
 -Smart phone
+
 -Adobe Scan Application downloaded on your phone ([Apple App Store](https://apps.apple.com/us/app/adobe-scan-digital-pdf-scanner/id1199564834)/[Google Play Store](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US))
 
 --
-1. Open the app. You will arrive at a page similar to this:
-
+<ol>
+ <li> Open the app. You will arrive at a page similar to this: </li>
+</ol>
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906160-a14e0200-9dce-11eb-9b22-c99d377125e7.png">
  
-2. Click on this button to scan a document: 
+<li> Click on this button to scan a document: </li>
  
 ﻿<img width="148" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
  
-3. Hover your phone over your document and press the circular button at the bottom of this page.
+<li> Hover your phone over your document and press the circular button at the bottom of this page.</li>
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114911293-b7aa8c80-9dd3-11eb-824d-a11fa2cd3d05.png">
  
@@ -54,4 +57,4 @@ You will be sent back to step 2. If you want to add additional pages to your sca
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906366-d0647380-9dce-11eb-8503-83f5400575d7.png">
 --
 
-Congratulations, you have successfully uploaded a written document to your laptop! Checkout [How to Upload a File](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/utilities/layout/) or [Trouble Shooting](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/troubleshooting/)
+Congratulations, you have successfully uploaded a written document to your laptop! Checkout [How to Upload a File](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/utilities/layout/) to upload this file to D2L. [Trouble Shooting](https://andrew-smirnoff.github.io/Business-Comm-assignment/docs/troubleshooting/)
