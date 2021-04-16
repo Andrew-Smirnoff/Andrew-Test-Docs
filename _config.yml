@@ -65,7 +65,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "D2L Manual on GitHub":
-    - "//github.com/Andrew-Smirnoff/Business-Comm-assignment"
+    - "//github.com/Andrew-Smirnoff/D2L-Introduction"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
