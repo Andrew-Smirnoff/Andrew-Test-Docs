@@ -8,6 +8,8 @@ url: docs/activities/scan-a-written-doc
 # Scan a Written Document
 {: .no_toc }
 
+This page will guide you through the process of uploading written work from paper to phone. Please make sure the specific prerequisites are met as the directions assume that these have been fulfilled.
+
 
 ### Specific Prerequisites:
 
@@ -16,7 +18,7 @@ url: docs/activities/scan-a-written-doc
 - Adobe Scan Application downloaded on your phone ([Apple App Store](https://apps.apple.com/us/app/adobe-scan-digital-pdf-scanner/id1199564834) / [Google Play Store](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US))
 
 ---
-### Direction:
+### Directions:
 
 <ol>
  
@@ -61,7 +63,7 @@ At this point you will be sent back to the state of step 2. If you need to add a
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906312-c3478480-9dce-11eb-9b60-5b8c2a064934.png">
  
  
-<li> Click the "Save PDF" button in the top right corner. You will be returned to the main page.</li>
+<li> Click the Save PDF button in the top right corner. You will be returned to the main page.</li>
  
  
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906337-c8a4cf00-9dce-11eb-931c-d7db284810b2.png">
@@ -69,7 +71,7 @@ At this point you will be sent back to the state of step 2. If you need to add a
   
 <li> Click the share text beside this scan which will be on display at the top of the screen.</li>
 
-<li> Click "Share a Copy" which will bring up the options available to you. The method I used was sending a text to myself containing the PDF and then from the messages app on my computer I downloaded the file to the proper files. </li><br/>
+<li> Click Share a Copy which will bring up the options available to you. The method I used was sending a text to myself containing the PDF and then from the messages app on my computer I downloaded the file to the proper files. </li><br/>
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906366-d0647380-9dce-11eb-8503-83f5400575d7.png">
  
