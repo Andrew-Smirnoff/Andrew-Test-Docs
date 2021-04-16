@@ -31,7 +31,7 @@ Familiarize yourself with the headbar.
 
 <img src="https://github.com/Andrew-Smirnoff/Business-Comm-assignment/blob/gh-pages/assets/images/home.png?raw=true">
 
-This is the home button. You can click the icon or the BCIT logo at any time to return to the homepage.
+This is the home button. You can click the icon at any time to return to the homepage.
 
 These buttons on the right of the headbar represent:
 
