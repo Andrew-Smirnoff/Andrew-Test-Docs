@@ -24,7 +24,10 @@ Learning Hub is a multi-faceted environment where instructors will interact with
 
 ### Who is this for
 
-This guide is for new or returning BCIT students who are unfamiliar with Learning Hub. This guide's purpose is to teach basic functionalities of the Learning Hub such as:
+This guide is for new or returning BCIT students who are unfamiliar with Learning Hub and have some experience logging into and navigating BCIT online platforms. 
+
+This guide's purpose is to teach basic functionalities of the Learning Hub such as:
+
 - finding course content
 - accessing announcements and discussions
 - accessing quizzes and exams
@@ -39,10 +42,12 @@ Learning Hub is new to BCIT. This guide will have you prepared for your first da
 
 To use D2L you will need:
 
-- A computer able to run a browser such as Firefox, Opera, or Chrome (we have found that Firefox works better with D2L and Bongo than Chrome).
-- A mouse.
-- A keyboard.
-- A brain.
+- Computer able to run a browser such as Firefox, Opera, or Chrome (we have found that Firefox works better with D2L and Bongo than Chrome).
+- Mouse.
+- Keyboard.
+- BCIT student number and login capabilities.
+- Smart Phone
+- Adobe Scan Application downloaded on your phone ([Apple App Store](https://apps.apple.com/us/app/adobe-scan-digital-pdf-scanner/id1199564834) / [Google Play Store](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US))
 
 ---
 
@@ -54,4 +59,4 @@ BCIT uses D2L to provide students with consistent access to class content such a
 
 ### Conclusion
 
-D2L will be confusing because every instructor uses it differently in the terms of which features they use, assignment delivery, group work, course delivery etc. This guide touches on the fundamental use cases that are common across all courses. We wish you all the best in your education and beyond! Cheers, D., A., && N..
+D2L will be confusing at first. Every instructor uses it different features for different reasons. This guide touches on the fundamental use cases that are common across all courses. We wish you all the best in your education and beyond! Cheers, D., A., && N..
