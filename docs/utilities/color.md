@@ -26,7 +26,7 @@ url: docs/activities/scan-a-written-doc
 ﻿<img width="375" style="margin: 10px 0px" alt="image" src="https://user-images.githubusercontent.com/24902962/114906160-a14e0200-9dce-11eb-9b22-c99d377125e7.png">
 
 
-<li> Click on this button to scan a document: </li></br>
+<li> Click on this button to scan a document: </li>
  
  
 ﻿<img width="148" style="float: left" alt="image" src="https://user-images.githubusercontent.com/24902962/114906215-aad76a00-9dce-11eb-89cc-fc7551700d3c.png">
@@ -69,7 +69,7 @@ At this point you will be sent back to the state of step 2. If you need to add a
   
 <li> Click the share text beside this scan which will be on display at the top of the screen.</li>
 
-<li> Click "Share a Copy" which will bring up the options available to you. The method I used was sending a text to myself containing the PDF and then from the messages app on my computer I downloaded the file to the proper files. </li></br>
+<li> Click "Share a Copy" which will bring up the options available to you. The method I used was sending a text to myself containing the PDF and then from the messages app on my computer I downloaded the file to the proper files. </li><br/>
 
 ﻿<img width="375" alt="image" src="https://user-images.githubusercontent.com/24902962/114906366-d0647380-9dce-11eb-8503-83f5400575d7.png">
  
