@@ -39,7 +39,6 @@ Your schedule can be found in "Check Course Schedule" at my.bcit.ca, where your 
 ![image](https://user-images.githubusercontent.com/71256381/114954171-d0846380-9e0e-11eb-8b06-4d2f14cc05c0.png)
 If you could not find a class at your current date and time, or if the virtual classroom menu is empty, then it is very likely that your class isn't scheduled for right now, or perhaps they use another form of delivering lectures. It's also possible that the lecture was canceled, or perhaps the wrong section was opened by mistake. Be sure to double check with your instructor if they have another method of providing classes.
 4. Click "join" on the menu that pops up.
-
 ![image](https://user-images.githubusercontent.com/71256381/114954187-d9753500-9e0e-11eb-9bb8-f920688141fd.png)
 ---
 ## Zoom
