@@ -9,14 +9,14 @@ url: docs/activities/scan-a-written-doc
 {: .no_toc }
 
 
-### Specific Prerequisites
+### Specific Prerequisites:
 
 - Smart phone
 
 - Adobe Scan Application downloaded on your phone ([Apple App Store](https://apps.apple.com/us/app/adobe-scan-digital-pdf-scanner/id1199564834) / [Google Play Store](https://play.google.com/store/apps/details?id=com.adobe.scan.android&hl=en_US&gl=US))
 
 ---
-### Steps
+### Direction:
 
 <ol>
  
