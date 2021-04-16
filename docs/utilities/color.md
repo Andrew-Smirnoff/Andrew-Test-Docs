@@ -2,7 +2,7 @@
 layout: default
 title: Scan a Written Document
 parent: Activities
-url: docs/activities
+url: docs/activities/scan-a-written-doc
 ---
 
 # Scan a Written Document
