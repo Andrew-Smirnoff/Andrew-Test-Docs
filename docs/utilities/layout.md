@@ -7,9 +7,10 @@ url: docs/activities/upload-a-file
 
 # Upload a File to D2L
 
-This page will take you through the steps of uploading a file to D2L.
-
 {: .no_toc }
+
+This page will take you through the steps of uploading a file to D2L. You will need to understand this skill to upload assignments, quizzes, exams, projects, and videos.
+
 ---
 
 To upload a file to a submission:
